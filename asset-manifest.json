@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pooja-portfolio/static/css/main.76c4074b.css",
+    "main.css": "/pooja-portfolio/static/css/main.a65ed331.css",
     "main.js": "/pooja-portfolio/static/js/main.bc261380.js",
     "static/js/787.1ed0c42c.chunk.js": "/pooja-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/pic2.jpeg": "/pooja-portfolio/static/media/pic2.62153015d6da0f1d4237.jpeg",
@@ -10,12 +10,12 @@
     "static/media/leetcode-white.svg": "/pooja-portfolio/static/media/leetcode-white.854aa5b19ef58cbc0ec1a94ac2625a63.svg",
     "static/media/hackerrank.svg": "/pooja-portfolio/static/media/hackerrank.5a46a8cdda674ffc20e5a35ea1d26352.svg",
     "index.html": "/pooja-portfolio/index.html",
-    "main.76c4074b.css.map": "/pooja-portfolio/static/css/main.76c4074b.css.map",
+    "main.a65ed331.css.map": "/pooja-portfolio/static/css/main.a65ed331.css.map",
     "main.bc261380.js.map": "/pooja-portfolio/static/js/main.bc261380.js.map",
     "787.1ed0c42c.chunk.js.map": "/pooja-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76c4074b.css",
+    "static/css/main.a65ed331.css",
     "static/js/main.bc261380.js"
   ]
 }
