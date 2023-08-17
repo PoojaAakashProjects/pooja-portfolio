@@ -3,7 +3,7 @@ export default function Projects () {
         <div class='container'>
             <h2 style={{color:"white" , textAlign:"center"}}>Here are my Personal Projects</h2>
             <div class="flex-container" style={{display:"flex",justifyContent:"center",flexDirection:"column",alignItems:"center",alignContent:"center",padding:"10px",margin:"20px"}}>
-            <div style={{backgroundColor:"#3c383c82",display:"block" ,width:"60%",height:"40%",padding:"10px",margin:"20px"}}>
+            <div style={{borderRadius:"16px",backgroundColor:"#3c383c82",display:"block" ,width:"60%",height:"40%",padding:"10px",margin:"20px"}}>
                 <h3 style={{color:"white"}}>
                     Factory Management
                 </h3>
@@ -22,7 +22,7 @@ export default function Projects () {
                     </ul>
 
             </div>
-            <div style={{backgroundColor:"#3c383c82",display:"block",width:"60%",height:"40%",padding:"10px",margin:"20px"}}>
+            <div style={{borderRadius:"16px",backgroundColor:"#3c383c82",display:"block",width:"60%",height:"40%",padding:"10px",margin:"20px"}}>
                 <h3 style={{color:"white"}}>
                     Just book it
                 </h3>
