@@ -75,7 +75,7 @@ function App() {
             If you have a great project that needs some amazing skills, give me a chance.
           </p>
 
-          <div style={{ backgroundColor: "rgba(60, 56, 60, 0.51)",margin:"auto",borderRadius: "16px", padding:"35px",color: "white", display: "flex", justifyContent: 'flex-start', textAlign: "center", flexDirection: "column" }}>
+          <div style={{ width: "70%",backgroundColor: "rgba(60, 56, 60, 0.51)",margin:"auto",borderRadius: "16px", padding:"35px",color: "white", display: "flex", justifyContent: 'flex-start', textAlign: "center", flexDirection: "column" }}>
                         <h1 style={{ textAlign: "center", color:"#8491a0",fontSize:"16px",fontWeight: "700" }}>Skills</h1>
                         <div >
                             <h3 style={{ color: "#14e956",color:"#8491a0",fontSize:"16px",fontWeight: "700"  }}>Frontend Development</h3>
