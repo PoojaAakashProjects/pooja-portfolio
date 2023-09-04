@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pooja-portfolio/static/css/main.6f3a9ca2.css",
-    "main.js": "/pooja-portfolio/static/js/main.11d807a4.js",
+    "main.css": "/pooja-portfolio/static/css/main.d693a1e1.css",
+    "main.js": "/pooja-portfolio/static/js/main.a3ce7e86.js",
     "static/js/787.1ed0c42c.chunk.js": "/pooja-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/pic2.jpeg": "/pooja-portfolio/static/media/pic2.62153015d6da0f1d4237.jpeg",
     "static/media/Pooja_Resume_2023.pdf": "/pooja-portfolio/static/media/Pooja_Resume_2023.abc575149328f55a6b60.pdf",
@@ -10,12 +10,12 @@
     "static/media/leetcode-white.svg": "/pooja-portfolio/static/media/leetcode-white.854aa5b19ef58cbc0ec1a94ac2625a63.svg",
     "static/media/hackerrank.svg": "/pooja-portfolio/static/media/hackerrank.5a46a8cdda674ffc20e5a35ea1d26352.svg",
     "index.html": "/pooja-portfolio/index.html",
-    "main.6f3a9ca2.css.map": "/pooja-portfolio/static/css/main.6f3a9ca2.css.map",
-    "main.11d807a4.js.map": "/pooja-portfolio/static/js/main.11d807a4.js.map",
+    "main.d693a1e1.css.map": "/pooja-portfolio/static/css/main.d693a1e1.css.map",
+    "main.a3ce7e86.js.map": "/pooja-portfolio/static/js/main.a3ce7e86.js.map",
     "787.1ed0c42c.chunk.js.map": "/pooja-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f3a9ca2.css",
-    "static/js/main.11d807a4.js"
+    "static/css/main.d693a1e1.css",
+    "static/js/main.a3ce7e86.js"
   ]
 }
