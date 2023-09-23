@@ -1,4 +1,6 @@
 import '../App.css'
+import {FaGithub,FaLinkedinIn} from "react-icons/fa";
+import {SiLeetcode,SiGeeksforgeeks} from "react-icons/si";
 
 
 export default function Contact() {
@@ -22,11 +24,16 @@ export default function Contact() {
             </div>
         </div>
        <div style={{marginTop: "1%"}}>
-          <ul style={{display:"flex",flexDirection:"row",justifyContent:"center",alignItems:"center",padding:"0",margin:"0"}}>
-            <li style={{listStyleType:"none",margin:"20px"}}><a href='https://github.com/PoojaAakashProjects'><i class='fa fa-github' color='black' style={{fontSize:"50px"}}></i></a></li>
+          <ul style={{display:"flex",flexDirection:"row",justifyContent:"center",alignItems:"center",padding:"0"}}>
+            {/* <li style={{listStyleType:"none",margin:"20px"}}><a href='https://github.com/PoojaAakashProjects'><i class='fa fa-github' color='black' style={{fontSize:"50px"}}></i></a></li>
             <li style={{listStyleType:"none",margin:"20px"}}><a href = "https://www.linkedin.com/in/pooja-joshi-7376b1166/"><i class="fa fa-linkedin"  style={{fontSize:"50px","color": "#0A66C2"}}></i></a></li>
             <li style={{listStyleType:"none",margin:"20px","paddingTop": "22px"}}><a href="https://auth.geeksforgeeks.org/user/pooja%20joshi%201"><img src='https://media.geeksforgeeks.org/gfg-gg-logo.svg' style = {{width:"50px",height:"80px"}}></img></a></li>
-            <li style={{listStyleType:"none"}}><a href="https://leetcode.com/poojajoshi123/"><img src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" style = {{width:"50px",height:"50px"}}></img></a></li>
+            <li style={{listStyleType:"none"}}><a href="https://leetcode.com/poojajoshi123/"><img src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" style = {{width:"50px",height:"50px"}}></img></a></li> */}
+           <li style={{listStyleType:"none"}}><a href='https://github.com/PoojaAakashProjects'><FaGithub /></a></li>
+            <li style={{listStyleType:"none"}}><a href = "https://www.linkedin.com/in/pooja-joshi-7376b1166/"><FaLinkedinIn style={{color:"#0A66C2"}}/></a></li>
+            <li style={{listStyleType:"none"}}><a href="https://auth.geeksforgeeks.org/user/pooja%20joshi%201"><SiGeeksforgeeks style={{color:"#2f8d46"}}/></a></li>
+            <li style={{listStyleType:"none"}}><a href="https://leetcode.com/poojajoshi123/"><SiLeetcode style={{color:"#FFA116"}} /></a></li>
+          
           </ul>
         </div>
        </div>

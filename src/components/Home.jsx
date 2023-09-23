@@ -74,15 +74,7 @@ export default function Home() {
             <h3 className="heading_24px"><span className="blue" style={{color:"#333399"}}>Tata Consultancy Services</span>, System Engineer</h3>
             <p className="paragraph_16px">I’ve worked as an Automation tester for almost 2 years.</p>
          </div>
-         {/* <div data-w-id="b7e1d0fe-20c6-3f36-2882-55d26141319b" 
-         style={{transform: "translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)",
-          transformstyle: "preserve-3d",
-           opacity: "1" }}
-           className="experience-block">
-            <div className="number">03</div>
-            <h3 className="heading_24px"><span className="pink">Dribbble</span>, Graphic Designer</h3>
-            <p className="paragraph_16px">I started my design career with Dribbble. I was incharge of creating illustrations for the platform.</p>
-         </div> */}
+        
       </div>
    </div>
 </div>
